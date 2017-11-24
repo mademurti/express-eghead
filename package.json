@@ -1,0 +1,15 @@
+{
+  "name": "express-egghead",
+  "version": "1.0.0",
+  "description": "learning express.js from egghead.io",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Made Murti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
